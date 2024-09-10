@@ -10,8 +10,7 @@ You can access the deployed App at https://diet-delight.netlify.app/
 
 ## R11: Github Repository
 
-Frontend: https://github.com/jmcaluyafuentes/diet-delight-frontend  
-Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
+https://github.com/hynguyenduc/Diet-Delight-Frontend
 
 ## Installation and Set Up Instructions
 
@@ -29,7 +28,7 @@ Make sure you have the following installed:
 First, clone the repository to your local machine:
 
 ```
-git clone https://github.com/jmcaluyafuentes/diet-delight-frontend.git
+git clone https://github.com/hynguyenduc/Diet-Delight-Frontend.git
 ```
 
 Navigate to the project directory:
