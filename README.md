@@ -1,6 +1,6 @@
 # Diet Delight
 
-A full stack web application by John Fuentes, Hy Nguyen and Branden Chiem.
+A full stack web application by Hy Nguyen
 
 A capstone project for the Diploma of IT at Coder Academy.
 
